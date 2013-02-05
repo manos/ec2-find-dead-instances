@@ -1,3 +1,5 @@
 Script to run from cron, that checks ec2 for "instances failing checks."
 
 Prints to stdout, so if there are any failures, you'll get cron email.
+Also prints the most recent events for the failed instance(s).
+
