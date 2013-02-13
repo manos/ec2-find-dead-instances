@@ -1,4 +1,4 @@
-#!/usr/bin/env kpython
+#!/usr/bin/env python
 #
 # print a list of 'failed' instances in ec2.
 # first and only argument is the region to connect to (default: us-east-1)
